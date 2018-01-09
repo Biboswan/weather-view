@@ -1,7 +1,4 @@
-# ReduxSimpleStarter
-
-
-### Getting Started
+#Getting Started
 
 ```
 > git clone https://github.com/Biboswan/weather-view.git
