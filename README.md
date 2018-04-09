@@ -1,4 +1,4 @@
-#Getting Started
+**Getting Started** 
 
 ```
 > git clone https://github.com/Biboswan/weather-view.git
@@ -11,3 +11,6 @@
 Currently it gives the last five day forecast of any indian city via charts 
 ```
 
+**Demo View**
+
+[![weather.png](https://s5.postimg.org/js9fw01sn/weather.png)](https://postimg.org/image/f6dbnng9f/)
